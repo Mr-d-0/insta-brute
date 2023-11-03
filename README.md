@@ -8,7 +8,7 @@ This is a simple tool in bash language made for Instagram brute force. It contai
 * `git clone https://github.com/Mr-d-0/insta-brute`
 * `cd insta-brute`
 * `sudo bash insta.sh`
-  <img align="center" scr="/assets/Screenshot.png"></img>
+  <img align="center" scr="assets/Screenshot.png"></img>
 # social medias
  insta : @cyber_mrd
  
